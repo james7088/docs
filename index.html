@@ -13,9 +13,13 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      el: "#app",
-      repo: 'https://github.com/james7088/docsify/tree/master',
-      loadSidebar: true
+      name: "docs",
+      repo: 'https://github.com/james7088/docsify',
+      loadSidebar: true,
+      auto2top: true,
+      alias: {
+      '/docs/(.*)': '/$1'
+      }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
