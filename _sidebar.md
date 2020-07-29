@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 
-* [HOME](./)
+* [HOME](./index.md)
 
-* [Tutorials](./tutorials/index)
+* [Tutorials](./tutorials/index.md)
 
