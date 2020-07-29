@@ -1,2 +1,2 @@
-# docsify
+# docs
 My Knowledge Base
